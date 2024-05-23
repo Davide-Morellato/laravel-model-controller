@@ -17,7 +17,7 @@
             Questo è il capitano Tiger, se non arrivi entro 5 minuti ti faccio trasferire a Bergamo, altissima.
         </h3>
         <h4 class="pt-5 m-0">
-            Scendi dall Subaru Baracca
+            Scendi dalla Subaru Baracca
         </h4>
         <h4>
             <a class="text-decoration-none text-danger" href="{{route('movie')}}"> Non c'è l'ACVZZZZZZ </a>
