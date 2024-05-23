@@ -1,5 +1,7 @@
 @extends('layouts.app')
 
+@section('title', 'Ghost')
+
 @section('content')
 <section class="bg-night py-3">
     <div class="container">
