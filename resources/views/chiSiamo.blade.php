@@ -18,7 +18,7 @@
             E adesso tornate a casa, dai!
         </h4>
         <h4>
-            <a class="text-decoration-none text-danger" href="{{route('movie')}}"> Passa de qua! </a>
+            <a class="text-decoration-none text-warning" href="{{route('movie')}}"> Passa de qua! </a>
         </h4>
     </div>
 </body>

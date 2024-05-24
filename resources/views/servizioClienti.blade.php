@@ -20,7 +20,7 @@
             Scendi dalla Subaru Baracca
         </h4>
         <h4>
-            <a class="text-decoration-none text-danger" href="{{route('movie')}}"> Non c'è l'ACVZZZZZZ </a>
+            <a class="text-decoration-none text-warning" href="{{route('movie')}}"> Non c'è l'ACVZZZZZZ </a>
         </h4>
     </div>
 </body>

@@ -9,6 +9,7 @@
             @foreach ($movies as $movie)
             <div class="col-4 gy-4 d-flex justify-content-center">
                 <div class="card h-100 w-75">
+                    <img src="{{$movie->cover}}" class="card-img-top h-75" alt="cover">
                     <div class="card-body text-center">
                         <h5 class="card-title"> {{$movie->title}}</h5>
                         <h6 class="card-subtitle mb-2 text-body-secondary">{{$movie->original_title}}</h6>

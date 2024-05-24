@@ -1,9 +1,6 @@
 @use '~bootstrap/scss/bootstrap';
 
 @use './partials/reset';
-@use './partials/navbar';
-@use './partials/movie';
-@use './partials/secret';
-@use './partials/cat';
-@use './partials/slime';
-@use './partials/chiSiamo';
+@use './partials/layout';
+@use './partials/bgColor';
+
